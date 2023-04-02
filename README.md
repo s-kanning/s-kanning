@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @s-kanning
 - 👀 I’m interested in learning, creating, and problem solving.
-- 🌱 I’m currently learning Python, C#, and MySQL.
-- 💞️ I’m looking to collaborate on projects related to games of all sorts.
+- 🌱 I have experience with Python, C#, and MySQL.
+- 🌱 I am a life-long learner excited to take on new challenges.
+- 💞️ I’m looking to collaborate on projects related to data and/or games of all sorts.
 - 📫 How to reach me ...
 
 <!---
