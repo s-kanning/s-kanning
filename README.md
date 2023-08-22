@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, creating, and problem solving.
 - 🌱 I have experience with Python, C#, and SQL.
 - 🌱 I am a life-long learner excited to take on new challenges.
-- 💞️ I’m looking to collaborate on projects related to edTech, data and/or games of all sorts.
+- 💞️ I’m looking to collaborate on projects related to edtech, data and/or games of all sorts.
 - 📫 How to reach me: sdkanning@gmail.com
 - LinkedIn: https://www.linkedin.com/in/scott-kanning/
 
